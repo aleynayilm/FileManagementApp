@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mcS8jUwUVII5PIfiab6Dww4hF6mpRIwfJNZ5/3a6nZE=",
+  "Hash": "ObXlPWx0jbdkgVm2QYEzoCITdEHWnSONdcTLCWAIGvc=",
   "Source": "FileManagementApp",
   "BasePath": "_content/FileManagementApp",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rjo7n0vbpu",
-      "Integrity": "+WC8cRWgF2SYldkeDfSB0XNxYorUmam6xW6obftkCwE=",
+      "Fingerprint": "pdotavg8qa",
+      "Integrity": "rUb0OoejnPdLibXqBIkY5eFAEF78Xtil5SPP4DDHy58=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1319,12 +1319,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\b48b887c-d0d1-42a5-9d79-64eaf1419472.pdf",
+      "Identity": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\939dd89a-81df-410b-8f59-cd55306a7f94.png",
       "SourceId": "FileManagementApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\",
       "BasePath": "_content/FileManagementApp",
-      "RelativePath": "uploads/b48b887c-d0d1-42a5-9d79-64eaf1419472#[.{fingerprint}]?.pdf",
+      "RelativePath": "uploads/939dd89a-81df-410b-8f59-cd55306a7f94#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1333,19 +1333,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5aqoepfr38",
-      "Integrity": "DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs=",
+      "Fingerprint": "w5ntd940gv",
+      "Integrity": "fLS1jjmsJ8WqnfHLon5wW84zrs+xHGOK1s7pJRLWw8Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\b48b887c-d0d1-42a5-9d79-64eaf1419472.pdf"
+      "OriginalItemSpec": "wwwroot\\uploads\\939dd89a-81df-410b-8f59-cd55306a7f94.png"
     },
     {
-      "Identity": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\c0bca8e5-d5d0-4534-be86-f95a10fe143a.pdf",
+      "Identity": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\97012be6-bdce-4434-b6bf-ead8a73dae30.pdf",
       "SourceId": "FileManagementApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\",
       "BasePath": "_content/FileManagementApp",
-      "RelativePath": "uploads/c0bca8e5-d5d0-4534-be86-f95a10fe143a#[.{fingerprint}]?.pdf",
+      "RelativePath": "uploads/97012be6-bdce-4434-b6bf-ead8a73dae30#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1354,19 +1354,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5aqoepfr38",
-      "Integrity": "DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs=",
+      "Fingerprint": "sq7oae8rfi",
+      "Integrity": "zEAZWKnNvSzjRsywTi9aDFEemKtH9PrYP3HhFfToAgc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\c0bca8e5-d5d0-4534-be86-f95a10fe143a.pdf"
+      "OriginalItemSpec": "wwwroot\\uploads\\97012be6-bdce-4434-b6bf-ead8a73dae30.pdf"
     },
     {
-      "Identity": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\fad9b559-da44-4072-ae8c-27d2cccbf661.pdf",
+      "Identity": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\ac23bc62-f223-4469-af22-85cf5a0ce62b.png",
       "SourceId": "FileManagementApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\",
       "BasePath": "_content/FileManagementApp",
-      "RelativePath": "uploads/fad9b559-da44-4072-ae8c-27d2cccbf661#[.{fingerprint}]?.pdf",
+      "RelativePath": "uploads/ac23bc62-f223-4469-af22-85cf5a0ce62b#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1375,11 +1375,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5aqoepfr38",
-      "Integrity": "DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs=",
+      "Fingerprint": "422a9n554q",
+      "Integrity": "7B2Ras22WvUstac4FQkLirS89tAeFpInmAoS6u4qlnw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\fad9b559-da44-4072-ae8c-27d2cccbf661.pdf"
+      "OriginalItemSpec": "wwwroot\\uploads\\ac23bc62-f223-4469-af22-85cf5a0ce62b.png"
     }
   ],
   "Endpoints": [
@@ -1394,7 +1394,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "711"
+          "Value": "781"
         },
         {
           "Name": "Content-Type",
@@ -1402,11 +1402,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+WC8cRWgF2SYldkeDfSB0XNxYorUmam6xW6obftkCwE=\""
+          "Value": "\"rUb0OoejnPdLibXqBIkY5eFAEF78Xtil5SPP4DDHy58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:36:53 GMT"
+          "Value": "Tue, 20 May 2025 15:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1416,12 +1416,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+WC8cRWgF2SYldkeDfSB0XNxYorUmam6xW6obftkCwE="
+          "Value": "sha256-rUb0OoejnPdLibXqBIkY5eFAEF78Xtil5SPP4DDHy58="
         }
       ]
     },
     {
-      "Route": "css/site.rjo7n0vbpu.css",
+      "Route": "css/site.pdotavg8qa.css",
       "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1431,7 +1431,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "711"
+          "Value": "781"
         },
         {
           "Name": "Content-Type",
@@ -1439,11 +1439,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+WC8cRWgF2SYldkeDfSB0XNxYorUmam6xW6obftkCwE=\""
+          "Value": "\"rUb0OoejnPdLibXqBIkY5eFAEF78Xtil5SPP4DDHy58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 13:36:53 GMT"
+          "Value": "Tue, 20 May 2025 15:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1453,7 +1453,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rjo7n0vbpu"
+          "Value": "pdotavg8qa"
         },
         {
           "Name": "label",
@@ -1461,7 +1461,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+WC8cRWgF2SYldkeDfSB0XNxYorUmam6xW6obftkCwE="
+          "Value": "sha256-rUb0OoejnPdLibXqBIkY5eFAEF78Xtil5SPP4DDHy58="
         }
       ]
     },
@@ -6468,8 +6468,8 @@
       ]
     },
     {
-      "Route": "uploads/b48b887c-d0d1-42a5-9d79-64eaf1419472.5aqoepfr38.pdf",
-      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\b48b887c-d0d1-42a5-9d79-64eaf1419472.pdf",
+      "Route": "uploads/939dd89a-81df-410b-8f59-cd55306a7f94.png",
+      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\939dd89a-81df-410b-8f59-cd55306a7f94.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6478,19 +6478,56 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "246855"
+          "Value": "732292"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/pdf"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs=\""
+          "Value": "\"fLS1jjmsJ8WqnfHLon5wW84zrs+xHGOK1s7pJRLWw8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 21:43:38 GMT"
+          "Value": "Tue, 20 May 2025 19:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLS1jjmsJ8WqnfHLon5wW84zrs+xHGOK1s7pJRLWw8Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/939dd89a-81df-410b-8f59-cd55306a7f94.w5ntd940gv.png",
+      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\939dd89a-81df-410b-8f59-cd55306a7f94.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "732292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLS1jjmsJ8WqnfHLon5wW84zrs+xHGOK1s7pJRLWw8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 19:25:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6500,21 +6537,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5aqoepfr38"
+          "Value": "w5ntd940gv"
         },
         {
           "Name": "label",
-          "Value": "uploads/b48b887c-d0d1-42a5-9d79-64eaf1419472.pdf"
+          "Value": "uploads/939dd89a-81df-410b-8f59-cd55306a7f94.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs="
+          "Value": "sha256-fLS1jjmsJ8WqnfHLon5wW84zrs+xHGOK1s7pJRLWw8Q="
         }
       ]
     },
     {
-      "Route": "uploads/b48b887c-d0d1-42a5-9d79-64eaf1419472.pdf",
-      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\b48b887c-d0d1-42a5-9d79-64eaf1419472.pdf",
+      "Route": "uploads/97012be6-bdce-4434-b6bf-ead8a73dae30.pdf",
+      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\97012be6-bdce-4434-b6bf-ead8a73dae30.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6523,7 +6560,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "246855"
+          "Value": "927643"
         },
         {
           "Name": "Content-Type",
@@ -6531,11 +6568,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs=\""
+          "Value": "\"zEAZWKnNvSzjRsywTi9aDFEemKtH9PrYP3HhFfToAgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 21:43:38 GMT"
+          "Value": "Tue, 20 May 2025 19:09:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6545,13 +6582,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs="
+          "Value": "sha256-zEAZWKnNvSzjRsywTi9aDFEemKtH9PrYP3HhFfToAgc="
         }
       ]
     },
     {
-      "Route": "uploads/c0bca8e5-d5d0-4534-be86-f95a10fe143a.5aqoepfr38.pdf",
-      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\c0bca8e5-d5d0-4534-be86-f95a10fe143a.pdf",
+      "Route": "uploads/97012be6-bdce-4434-b6bf-ead8a73dae30.sq7oae8rfi.pdf",
+      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\97012be6-bdce-4434-b6bf-ead8a73dae30.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6560,7 +6597,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "246855"
+          "Value": "927643"
         },
         {
           "Name": "Content-Type",
@@ -6568,11 +6605,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs=\""
+          "Value": "\"zEAZWKnNvSzjRsywTi9aDFEemKtH9PrYP3HhFfToAgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 10:09:10 GMT"
+          "Value": "Tue, 20 May 2025 19:09:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6582,21 +6619,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5aqoepfr38"
+          "Value": "sq7oae8rfi"
         },
         {
           "Name": "label",
-          "Value": "uploads/c0bca8e5-d5d0-4534-be86-f95a10fe143a.pdf"
+          "Value": "uploads/97012be6-bdce-4434-b6bf-ead8a73dae30.pdf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs="
+          "Value": "sha256-zEAZWKnNvSzjRsywTi9aDFEemKtH9PrYP3HhFfToAgc="
         }
       ]
     },
     {
-      "Route": "uploads/c0bca8e5-d5d0-4534-be86-f95a10fe143a.pdf",
-      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\c0bca8e5-d5d0-4534-be86-f95a10fe143a.pdf",
+      "Route": "uploads/ac23bc62-f223-4469-af22-85cf5a0ce62b.422a9n554q.png",
+      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\ac23bc62-f223-4469-af22-85cf5a0ce62b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6605,56 +6642,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "246855"
+          "Value": "457563"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/pdf"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs=\""
+          "Value": "\"7B2Ras22WvUstac4FQkLirS89tAeFpInmAoS6u4qlnw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 10:09:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/fad9b559-da44-4072-ae8c-27d2cccbf661.5aqoepfr38.pdf",
-      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\fad9b559-da44-4072-ae8c-27d2cccbf661.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "246855"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 11:03:39 GMT"
+          "Value": "Tue, 20 May 2025 19:10:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6664,21 +6664,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5aqoepfr38"
+          "Value": "422a9n554q"
         },
         {
           "Name": "label",
-          "Value": "uploads/fad9b559-da44-4072-ae8c-27d2cccbf661.pdf"
+          "Value": "uploads/ac23bc62-f223-4469-af22-85cf5a0ce62b.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs="
+          "Value": "sha256-7B2Ras22WvUstac4FQkLirS89tAeFpInmAoS6u4qlnw="
         }
       ]
     },
     {
-      "Route": "uploads/fad9b559-da44-4072-ae8c-27d2cccbf661.pdf",
-      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\fad9b559-da44-4072-ae8c-27d2cccbf661.pdf",
+      "Route": "uploads/ac23bc62-f223-4469-af22-85cf5a0ce62b.png",
+      "AssetFile": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\ac23bc62-f223-4469-af22-85cf5a0ce62b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6687,29 +6687,29 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "246855"
+          "Value": "457563"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/pdf"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs=\""
+          "Value": "\"7B2Ras22WvUstac4FQkLirS89tAeFpInmAoS6u4qlnw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 11:03:39 GMT"
+          "Value": "Tue, 20 May 2025 19:10:45 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DR14y5Agk1YX3PYHI+72lIfuciquSAWYGrweluY3aGs="
+          "Value": "sha256-7B2Ras22WvUstac4FQkLirS89tAeFpInmAoS6u4qlnw="
         }
       ]
     }

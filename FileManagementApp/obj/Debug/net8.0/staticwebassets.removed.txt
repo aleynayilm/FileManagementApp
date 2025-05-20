@@ -1,0 +1,3 @@
+C:\Users\aleynayilmaz\source\repos\FileManagementApp\FileManagementApp\wwwroot\uploads\939dd89a-81df-410b-8f59-cd55306a7f94.png
+C:\Users\aleynayilmaz\source\repos\FileManagementApp\FileManagementApp\wwwroot\uploads\97012be6-bdce-4434-b6bf-ead8a73dae30.pdf
+C:\Users\aleynayilmaz\source\repos\FileManagementApp\FileManagementApp\wwwroot\uploads\ac23bc62-f223-4469-af22-85cf5a0ce62b.png

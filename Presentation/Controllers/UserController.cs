@@ -2,6 +2,7 @@
 using Entities.ViewModels;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Repositories;
@@ -30,18 +31,22 @@ namespace Presentation.Controllers
         [HttpPost]
         public async Task<IActionResult> Login(string email, string password)
         {
-            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == email && u.Password == password);
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
             if (user != null)
             {
-                var claims = new List<Claim>
+                var hasher= new PasswordHasher<User>();
+                var result = hasher.VerifyHashedPassword(user, user.Password, password);
+                if (result == PasswordVerificationResult.Success) {
+                    var claims = new List<Claim>
                 {
                     new Claim(ClaimTypes.Name, user.Email),
                     new Claim(ClaimTypes.NameIdentifier, user.Id.ToString())
                 };
-                var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-                var principal = new ClaimsPrincipal(identity);
-                await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
-                return RedirectToAction("Index", "Home");
+                    var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                    var principal = new ClaimsPrincipal(identity);
+                    await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
+                    return RedirectToAction("Index", "Home");
+                }
             }
             ViewBag.Message = "Invalid email or password.";
             return View();
@@ -61,13 +66,14 @@ namespace Presentation.Controllers
         {
             if (!ModelState.IsValid)
                 return View(model);
+            var hasher= new PasswordHasher<User>();
             var user = new User
             {
                 FirstName = model.FirstName,
                 LastName = model.LastName,
-                Email = model.Email,
-                Password = model.Password
+                Email = model.Email
             };
+            user.Password=hasher.HashPassword(user, model.Password);    
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
 

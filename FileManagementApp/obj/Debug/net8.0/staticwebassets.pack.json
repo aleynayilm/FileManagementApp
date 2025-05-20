@@ -245,16 +245,16 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\b48b887c-d0d1-42a5-9d79-64eaf1419472.pdf",
-      "PackagePath": "staticwebassets\\uploads\\b48b887c-d0d1-42a5-9d79-64eaf1419472.pdf"
+      "Id": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\939dd89a-81df-410b-8f59-cd55306a7f94.png",
+      "PackagePath": "staticwebassets\\uploads\\939dd89a-81df-410b-8f59-cd55306a7f94.png"
     },
     {
-      "Id": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\c0bca8e5-d5d0-4534-be86-f95a10fe143a.pdf",
-      "PackagePath": "staticwebassets\\uploads\\c0bca8e5-d5d0-4534-be86-f95a10fe143a.pdf"
+      "Id": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\97012be6-bdce-4434-b6bf-ead8a73dae30.pdf",
+      "PackagePath": "staticwebassets\\uploads\\97012be6-bdce-4434-b6bf-ead8a73dae30.pdf"
     },
     {
-      "Id": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\fad9b559-da44-4072-ae8c-27d2cccbf661.pdf",
-      "PackagePath": "staticwebassets\\uploads\\fad9b559-da44-4072-ae8c-27d2cccbf661.pdf"
+      "Id": "C:\\Users\\aleynayilmaz\\source\\repos\\FileManagementApp\\FileManagementApp\\wwwroot\\uploads\\ac23bc62-f223-4469-af22-85cf5a0ce62b.png",
+      "PackagePath": "staticwebassets\\uploads\\ac23bc62-f223-4469-af22-85cf5a0ce62b.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FileManagementApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

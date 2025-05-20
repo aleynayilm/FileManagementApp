@@ -44,3 +44,10 @@ input.form-control {
     padding: 8px;
     box-sizing: border-box;
 }
+.card {
+    border-radius: 15px;
+}
+
+.btn {
+    border-radius: 10px;
+}

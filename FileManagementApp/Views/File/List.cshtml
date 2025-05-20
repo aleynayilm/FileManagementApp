@@ -1,19 +1,48 @@
-﻿@{
-	ViewData["Title"] = "Listele";
-}
-@using Entities
+﻿@using Entities
 @model IEnumerable<FileRecord>
-<h2>Yüklenen Dosyalar</h2>
-@if (!Model.Any())
-{
-	<p>Hiç dosya yüklenmemiş.</p>
+
+@{
+    ViewData["Title"] = "Dosyalarım";
 }
-<ul>
-	@foreach (var file in Model)
-	{
-		<li>
-			<a href="~/@file.FilePath" target="_blank">@file.FileName</a>
-			<span> -@file.UploadedAt.ToString("g")</span>
-		</li>
-	}
-</ul>
+
+<div class="row justify-content-center">
+    <div class="col-md-10">
+        <div class="card shadow p-4 mt-4">
+            <h3 class="card-title mb-3 text-center">Dosyalarım</h3>
+
+            @if (!Model.Any())
+            {
+                <div class="alert alert-info text-center">Henüz dosya yüklemediniz.</div>
+            }
+            else
+            {
+                <table class="table table-bordered table-hover">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Dosya Adı</th>
+                            <th>Tarih</th>
+                            <th>İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var file in Model)
+                        {
+                            <tr>
+                                <td>@file.FileName</td>
+                                <td>@file.UploadedAt.ToShortDateString()</td>
+                                <td>
+                                    <a asp-controller="File" asp-action="Download" asp-route-id="@file.Id" class="btn btn-sm btn-success">İndir</a>
+                                    <form asp-controller="File" asp-action="Delete" asp-route-id="@file.Id" method="post" style="display:inline;">
+                                        <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Silmek istediğinize emin misiniz?')">Sil</button>
+                                    </form>
+
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+</div>
+
