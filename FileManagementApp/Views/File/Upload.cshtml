@@ -1,0 +1,12 @@
+﻿@{
+	ViewData["Title"] = "Dosya Yükle";
+}
+<h2>Dosya Yükle</h2>
+<form asp-controller="File" asp-action="Upload" method="post" enctype="multipart/form-data">
+	<input type="file" name="file"/>
+	<button type="submit">Yükle</button>
+</form>
+@if (ViewBag.Message != null)
+{
+	<p>@ViewBag.Message</p>
+}

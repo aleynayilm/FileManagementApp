@@ -41,6 +41,17 @@ namespace Services
             return allFiles.Where(f=>f.UserId==userId).ToList();
         }
 
+        public List<string> GetUploadedFiles()
+        {
+            var uploadPath = Path.Combine(_environment.WebRootPath, "uploads");
+            if (!Directory.Exists(uploadPath))
+                return new List<string>();
+
+            return Directory.GetFiles(uploadPath)
+                .Select(Path.GetFileName)
+                .ToList();
+        }
+
         public async Task<FileRecord> UploadFileAsync(IFormFile file, int userId)
         {
             var uploadsFolder= Path.Combine(_environment.WebRootPath, "uploads");

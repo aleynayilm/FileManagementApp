@@ -13,5 +13,6 @@ namespace Services
         Task<List<FileRecord>> GetAllFilesByUserAsync(int userId);
         Task<FileRecord> UploadFileAsync(IFormFile file, int userId);
         Task<bool> DeleteFileAsync(int fileId);
+        List<string> GetUploadedFiles();
     }
 }

@@ -1,0 +1,19 @@
+﻿@{
+	ViewData["Title"] = "Listele";
+}
+@using Entities
+@model IEnumerable<FileRecord>
+<h2>Yüklenen Dosyalar</h2>
+@if (!Model.Any())
+{
+	<p>Hiç dosya yüklenmemiş.</p>
+}
+<ul>
+	@foreach (var file in Model)
+	{
+		<li>
+			<a href="~/@file.FilePath" target="_blank">@file.FileName</a>
+			<span> -@file.UploadedAt.ToString("g")</span>
+		</li>
+	}
+</ul>
